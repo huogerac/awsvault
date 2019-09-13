@@ -6,6 +6,7 @@ make clean
 make html
 cd ..
 
+# not useful
 # commit and push
 git add -A
 git commit -m "building and pushing docs"
